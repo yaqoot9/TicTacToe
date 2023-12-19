@@ -1,2 +1,1 @@
-A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
 Dart code defines a TicTacToe class with methods for initializing the game, printing the board, making moves, checking for a win, checking for a draw, switching players, playing the game, and resetting the game. The main function creates an instance of the TicTacToe class and starts the game. Players take turns entering their moves until there is a winner or a draw, and the game can be restarted if desired
